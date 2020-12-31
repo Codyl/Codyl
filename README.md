@@ -2,7 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=Codyl.com&style=for-the-badge&url=https%3A%2F%2FCodyl.com)]()
 [![Twitter Follow](https://img.shields.io/twitter/follow/CodyLillywhite?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCodyLillywhite&screen_name=CodyLillywhite)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=dndproject)](https://github.com/Codyl/dndproject)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codyl)](https://github.com/Codyl/github-readme-stats)
+---
 - 🌱 I’m currently learning elm, typescript, and react.
 - 👯 I’m looking to learn from other experienced programmers
 - 🥅 2021 Goals: Complete a sizable programming project each month.
@@ -41,14 +44,14 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
----
+<!-- --- -->
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
+<!-- --- -->
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -61,7 +64,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Codyl's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Codyl&show_icons=true&hide_border=true" />
+  <img align="left" alt="Codyl's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Codyl&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
