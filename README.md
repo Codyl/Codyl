@@ -49,6 +49,7 @@
 <!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing yml file](https://dev.to/codyl/testing-yml-file-15d1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- --- -->
