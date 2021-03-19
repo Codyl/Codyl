@@ -1,8 +1,8 @@
 ### Hi there, I'm Cody - aka [Codyl][website] 👋
 
-[![Website](https://img.shields.io/website?label=Codyl.com&style=for-the-badge&url=https%3A%2F%2FCodyl.com)]()
+[![Website](https://img.shields.io/website?label=Codyl.com&style=for-the-badge&url=https%3A%2F%2Fhttps://codyl.github.io/portfolioWebsiteReact/)]()
 [![Twitter Follow](https://img.shields.io/twitter/follow/CodyLillywhite?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCodyLillywhite&screen_name=CodyLillywhite)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=dndproject)](https://github.com/Codyl/dndproject)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=portfolioWebsiteReact)](https://codyl.github.io/portfolioWebsiteReact/)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codyl)](https://github.com/Codyl/github-readme-stats)
 ---
