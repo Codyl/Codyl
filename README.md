@@ -6,7 +6,7 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codyl)](https://github.com/Codyl/github-readme-stats)
 ---
-- 🌱 I’m currently learning elm, typescript, and react.
+- 🌱 I’m currently working through freecodecamp.
 - 👯 I’m looking to learn from other experienced programmers
 - 🥅 2021 Goals: Complete a sizable programming project each month.
 - ⚡ Fun fact: I love to draw and build things
