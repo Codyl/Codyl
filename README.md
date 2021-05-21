@@ -1,6 +1,6 @@
 ### Hi there, I'm Cody - aka [Codyl][website] 👋
 
-[![Website](https://img.shields.io/website?label=Codyl.com&style=for-the-badge&url=https%3A%2F%2Fhttps://codyl.github.io/portfolioWebsiteReact/)]()
+[![Website](https://img.shields.io/website?label=codylillywhite.com&style=for-the-badge&url=http%3A%2F%2Fcodyl.github.io/portfolioWebsiteReact/)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/CodyLillywhite?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCodyLillywhite&screen_name=CodyLillywhite)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=portfolioWebsiteReact)](https://codyl.github.io/portfolioWebsiteReact/)
 ---
@@ -69,7 +69,7 @@
 
 </details>
 
-[website]: -
+[Website]: http://codylillywhite.com
 [course]: -
 [twitter]: https://twitter.com/CodyLillywhite
 [youtube]: https://www.youtube.com/channel/UCm9ZUM9E6Hyp5nHBZ7GPSMQ
