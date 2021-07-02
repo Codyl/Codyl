@@ -49,7 +49,8 @@
 <!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing yml file](https://dev.to/codyl/testing-yml-file-15d1)
+- [Projects](https://codylillyw.medium.com/improving-software-quality-in-short-term-group-projects-4a4abe4337cc)
+- [Portfolio Creation](https://codylillyw.medium.com/portfolio-creation-process-d2c2fd6539d5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- --- -->
