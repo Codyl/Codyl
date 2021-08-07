@@ -76,6 +76,7 @@
 [youtube]: https://www.youtube.com/channel/UCm9ZUM9E6Hyp5nHBZ7GPSMQ
 [instagram]:https://www.instagram.com/codylillywhite/?hl=en
 [linkedin]: https://www.linkedin.com/in/cody-lillywhite/
+[deviantart]: https://www.deviantart.com/codylillyw64
 [webdevplaylist]: -
 [jsplaylist]: -
 [cssplaylist]: -
