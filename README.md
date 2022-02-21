@@ -4,6 +4,7 @@
 [<img align="left" alt="cody-lillywhite | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
+<br/>
 
 ## Summary
 A versatile and quick learner with over 3 years web development experience, seeking a React developer
@@ -37,7 +38,7 @@ bootcamp program.
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<br/>
+<br/><br/>
 
 ## Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=react-toastmasters)](https://codyl.github.io/react-toastmasters/)
