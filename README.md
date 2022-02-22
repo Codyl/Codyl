@@ -16,6 +16,7 @@ bootcamp program.
 </details>
 
 ## Skills
+<div width="100%">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -38,7 +39,9 @@ bootcamp program.
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<br/><br/>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div>
 
 ## Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=react-toastmasters)](https://codyl.github.io/react-toastmasters/)
@@ -48,6 +51,7 @@ bootcamp program.
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=cp-order-queue)](https://codyl.github.io/cp-order-queue/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=cp-cycle-count)](https://codyl.github.io/cp-cycle-count/)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=dnd-tabletop)](https://codyl.github.io/dnd-tabletop/)
+</div>
 
 <details>
   <summary>Education, work experience, volunteer experience</summary>
