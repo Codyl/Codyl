@@ -1,7 +1,11 @@
 # Cody Lillywhite [![website](https://img.shields.io/website?label=codylillywhite.com&style=for-the-badge&url=http%3A%2F%2Fcodylillywhite.com)][website]
+<div style="background-color: white">
+  
 [<img align="left" alt="Portfolio website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Codyl | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="cody-lillywhite | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  
+  </div>
 
 <br/>
 <br/>
