@@ -1,5 +1,5 @@
-# Cody Lillywhite [![Website](https://img.shields.io/website?label=codylillywhite.com&style=for-the-badge&url=http%3A%2F%2Fcodylillywhite.com)][website]
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+# Cody Lillywhite [![website](https://img.shields.io/website?label=codylillywhite.com&style=for-the-badge&url=http%3A%2F%2Fcodylillywhite.com)][website]
+[<img align="left" alt="Portfolio website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Codyl | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="cody-lillywhite | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -44,13 +44,9 @@ bootcamp program.
 <div>
 
 ## Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=react-toastmasters)](https://codyl.github.io/react-toastmasters/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=bootstrap-toastmasters)](https://codyl.github.io/bootstrap-toastmasters/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=fanowrimo)](https://codyl.github.io/fanowrimo/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=fcc-quote-generator)](https://codyl.github.io/fcc-quote-generator/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=cp-order-queue)](https://codyl.github.io/cp-order-queue/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=cp-cycle-count)](https://codyl.github.io/cp-cycle-count/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=dnd-tabletop)](https://codyl.github.io/dnd-tabletop/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=react-toastmasters)](https://mwtoastmasters.netlify.app/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=bootstrap-toastmasters)](https://midway-toastmasters.netlify.app/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Codyl&repo=fanowrimo)](http://fanowrimo.s3-website.us-east-2.amazonaws.com/login)
 </div>
 
 <details>
@@ -77,7 +73,7 @@ bootcamp program.
 * Trained 3 students to develop programs by teaching functions, classes, and development lifecycle
 </details>
 
-[Website]: http://codylillywhite.com
+[website]: http://codylillywhite.com
 [linkedin]: https://www.linkedin.com/in/cody-lillywhite/
 [medium]: https://codylillyw.medium.com/
 
